@@ -1,11 +1,14 @@
-# nwHacks2020
+# MotionScents(NWHacks2020)
 > Gestures to control essential oil diffusers
 
 ## Roles:
-Ali- interfacing raspberry pi and the web app using python
-Ritvik- Developing and training a gesture recognition model using Google's autovision api, as well as setting up communications with the web app and GCP
-Edwin - Responsible for developing a node js web app from scratch
-Adam - Responsible for configuring the raspberrypi and the diffuser
+Ali- interfacing raspberry pi and the web app using python.
+
+Ritvik- Developing and training a gesture recognition model using Google's autovision api as well as setting up communications with the web app and GCP.
+
+Edwin - Responsible for developing a node js web app from scratch.
+
+Adam - Responsible for configuring the raspberrypi and the diffuser.
 
 ## Inspiration
 
